@@ -33,7 +33,7 @@ Open your `Gemfile`, remove `gem 'turbolinks'` and add the following:
 gem 'bower-rails'
 gem 'devise'
 gem 'angular-rails-templates' #=> allows us to place our html views in the assets/javascript directory
-gem 'active-model-serializer'
+gem 'active-model-serializers'
 gem 'bootstrap-sass', '~> 3.3.6' #=> bootstrap also requires the 'sass-rails' gem, which should already be included in your gemfile 
 ```
 
